@@ -1,0 +1,19 @@
+* { margin:0; padding: 0; }
+ul, li { list-style: none; }
+a { color: #ffffff; text-decoration: none; }
+body{
+	background-color:#000000;
+}
+.title{
+	color : #ffff00;
+	height : 100px;
+	font-size:35px;
+	text-align:center;
+	line-height:100px;
+}
+p{
+	color : #ffff00;
+}
+.section{
+	margin-left:35px;
+}
